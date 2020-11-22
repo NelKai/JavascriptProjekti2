@@ -1,3 +1,26 @@
-#info {
-    border: 1px solid black;
+body {
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+h1 {
+    padding: 10px;
+    border: 1px solid black;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#content {
+    text-align: center;
+}
+
+#infoBtn {
+    padding: 10px;
+    background: rgb(182, 77, 63);
+    color: white;
+}
+
+#infoBtn:hover {
+    background: rgb(241, 143, 143);
+}
+
