@@ -35,20 +35,3 @@ h1 {
 th {
     padding: 10px;
 }
-
-/*
-.leffatiedot {
-    background: rgb(252, 234, 234);
-    padding: 10px;
-    text-align: left;
-    font-size: 20px;
-    border: 1px solid rgb(54, 52, 52);
-    float: right;
-    width: 50%;
-}
-*/
-/*#info:after {
-    content: "";
-    display: table;
-    clear: both;
-}*/
